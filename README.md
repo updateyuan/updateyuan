@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### [@updateyuan](https://github.com/updateyuan) on  GitHub
 <!--
 **updateyuan/updateyuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![](./src/header_.png)
-![Personal 3D Metrics](./profile-3d-contrib/profile-night-green.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
